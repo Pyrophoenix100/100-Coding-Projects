@@ -1,13 +1,10 @@
 import time
 import sys
-time.sleep(1)
-print(sys.path)
-time.sleep(1)
-sys.path.append('\..')
-print(sys.path)
-time.sleep(1)
-
+import os
+sys.path.append(os.path.abspath(".."))
+import projectmodule
+projectmodule.printheader("Reverse a string", 1, "10/25/2016", "10/25/2016", "This program reverses whatever you type in.")
 sys.stdout.write("> ")
 inputs = input()
 print(inputs[::-1])
-time.sleep(2)
+empty = input("Press enter to continue...")
