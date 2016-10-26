@@ -18,9 +18,9 @@ Coding-Language: Python 3.5
 --------------------------------------------------------------------------------------------------
 Pig Latin – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
-Status: Current
+Status: Finished
 Start-Date: 10/25/2016
-Finish-Date: 
+Finish-Date: 10/26/2016
 Coding-Language: Python 3.5
 --------------------------------------------------------------------------------------------------
 Count Vowels – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
@@ -71,7 +71,7 @@ Regex Query Tool – A tool that allows the user to enter a text string and then i
 
 
 									=========================
-									|	Networking      |
+									|		Networking		|
 									=========================
 
 
@@ -146,7 +146,7 @@ Library Catalog – Create a book class with a title, page count, ISBN and whether
 --------------------------------------------------------------------------------------------------
 
 									=========================
-									|	Threading	|
+									|		Threading		|
 									=========================
 
 Create A Progress Bar for Downloads – Create a progress bar for applications that can keep track of a download in progress. The progress bar will be on a separate thread and will communicate with the main thread using delegates.
@@ -163,7 +163,7 @@ Bulk Thumbnail Creator – Picture processing can take a bit of time for some tran
 --------------------------------------------------------------------------------------------------
 
 									=========================
-									|	   Web		|
+									|	  		Web			|
 									=========================
 
 WYSIWG (What you see is what you get) Editor – Create an editor online which allows people to move around elements, create tables, write text, set colors etc for web pages without having to know HTML. Think Dreamweaver or FrontPage but for online sites. If you need an example check out the DIC page used to create a post.
@@ -218,7 +218,7 @@ Chat Site – A website where you can chat to anyone connected.
 
 -------------------------------------------------------------------------------------------------- 
 									=========================
-									|	  Files		|
+									|	 	 Files			|
 									=========================
 
 Quiz Maker – Make an application which takes various questions form a file, picked randomly, and puts together a quiz for students. Each quiz can be different and then reads a key to grade the quizzes.
@@ -271,7 +271,7 @@ Versioning Manager – Create your own versioning system for code files. Users are
 --------------------------------------------------------------------------------------------------
 
 									=========================
-									|	Databases	|
+									|		Databases		|
 									=========================
 
 SQL Query Analyzer – A utility application which a user can enter a query and have it run against a local database and look for ways to make it more efficient.
