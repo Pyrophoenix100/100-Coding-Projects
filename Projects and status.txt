@@ -214,6 +214,9 @@ Template Maker – Make a site or application which allows the user to enter in va
 CAPTCHA Maker – Ever see those images with letters a numbers when you signup for a service and then asks you to enter what you see? It keeps web bots from automatically signing up and spamming. Try creating one yourself for online forms. If you use PHP, take a look at the image functions of GD.
 
 --------------------------------------------------------------------------------------------------
+Chat Site – A website where you can chat to anyone connected.
+
+-------------------------------------------------------------------------------------------------- 
 									=========================
 									|	  Files		|
 									=========================
