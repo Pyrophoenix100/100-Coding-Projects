@@ -25,6 +25,10 @@ Coding-Language: Python 3.5
 --------------------------------------------------------------------------------------------------
 Count Vowels – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
 
+Status: Completed
+Start-Date: 11/1/2016
+Finish-Date: 11/1/2016
+Coding-Language: Python 3.5
 --------------------------------------------------------------------------------------------------
 Check if Palindrome – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 
@@ -41,16 +45,10 @@ RSS Feed Creator – A program which can read in text from other sources and put i
 Post it Notes Program – A program where you can add text reminders and post them. You can have the program also add popup reminders.
 
 --------------------------------------------------------------------------------------------------
-Quote Tracker (market symbols etc) – A program which can go out and check the current value of stocks for a list of symbols entered by the user. The user can set how often the stocks are checked and the program can show green up and red down arrows to show which direction the stock value has moved.
-
---------------------------------------------------------------------------------------------------
 Guestbook / Journal – A simple application that allows people to add comments or write journal entries. It can allow comments or not and timestamps for all entries. Could also be made into a shout box.
 
 --------------------------------------------------------------------------------------------------
 News Ticker and Game Scores – A program which sits on your desktop and aggregates news and game scores from various sources on the net. It then scrolls them across the screen on regular intervals.
-
---------------------------------------------------------------------------------------------------
-Fortune Teller (Horoscope) – A program that checks your horoscope on various astrology sites and puts them together for you each day.
 
 --------------------------------------------------------------------------------------------------
 Vigenere / Vernam / Ceasar Ciphers – Functions for encrypting and decrypting data messages. Then send them to a friend.
@@ -146,7 +144,7 @@ Library Catalog – Create a book class with a title, page count, ISBN and whether
 --------------------------------------------------------------------------------------------------
 
 									=========================
-									|		Threading		|
+									|	Threading	|
 									=========================
 
 Create A Progress Bar for Downloads – Create a progress bar for applications that can keep track of a download in progress. The progress bar will be on a separate thread and will communicate with the main thread using delegates.
@@ -163,7 +161,7 @@ Bulk Thumbnail Creator – Picture processing can take a bit of time for some tran
 --------------------------------------------------------------------------------------------------
 
 									=========================
-									|	  		Web			|
+									|	    Web		|
 									=========================
 
 WYSIWG (What you see is what you get) Editor – Create an editor online which allows people to move around elements, create tables, write text, set colors etc for web pages without having to know HTML. Think Dreamweaver or FrontPage but for online sites. If you need an example check out the DIC page used to create a post.
@@ -218,7 +216,7 @@ Chat Site – A website where you can chat to anyone connected.
 
 -------------------------------------------------------------------------------------------------- 
 									=========================
-									|	 	 Files			|
+									|	  Files		|
 									=========================
 
 Quiz Maker – Make an application which takes various questions form a file, picked randomly, and puts together a quiz for students. Each quiz can be different and then reads a key to grade the quizzes.
@@ -271,7 +269,7 @@ Versioning Manager – Create your own versioning system for code files. Users are
 --------------------------------------------------------------------------------------------------
 
 									=========================
-									|		Databases		|
+									|	Databases	|
 									=========================
 
 SQL Query Analyzer – A utility application which a user can enter a query and have it run against a local database and look for ways to make it more efficient.
