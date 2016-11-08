@@ -36,11 +36,11 @@ Coding-Language: Python 3.5
 --------------------------------------------------------------------------------------------------
 Check if Palindrome – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 
-Status: 
-Difficulty: 
-Start-Date: 
-Finish-Date: 
-Coding-Language: dfdfdfdf
+Status: Completed
+Difficulty: Easy
+Start-Date: 11/8/2016
+Finish-Date: 11/8/2016
+Coding-Language: Python 3.5
 --------------------------------------------------------------------------------------------------
 Count Words in a String – Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
 
